@@ -1,0 +1,4 @@
+Sum: 27
+Subtraction (left-to-right): -17
+Multiplication: 1800
+Division (left-to-right): 0.01
